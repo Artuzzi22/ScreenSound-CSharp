@@ -118,6 +118,8 @@ void AvaliarUmaBanda()
     }
 
 
+
+
     else
     {
         Console.WriteLine($"\nA Banda {nomeDaBanda} não foi encontrada");
